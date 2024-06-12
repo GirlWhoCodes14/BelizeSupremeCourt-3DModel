@@ -4,7 +4,7 @@
 
 This project is a 3D model of the Supreme Court of Belize using Sketchup. 
 
-#### Created by
+### Created by
 Alexis Ayuso
 
 ### About the Supreme Court of Belize
